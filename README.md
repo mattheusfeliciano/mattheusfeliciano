@@ -1,5 +1,5 @@
 
-<h1> My name is <bold/>Matheus Feliciano</bold>, </h1> <br><br>
+<h1> My name is <bold/>Matheus Feliciano🧡</bold> </h1> <br><br>
  
  <p I'm a <bold>Computer Science student</bold> at UniFavip Wyden 💻 I'm now in the second period
 -👨‍💻 I am currently a teacher in the areas of graphic design and IT, also a passionate student of web development (where I want to continue learning new skills and become a web developer)</p>&nbsp;
