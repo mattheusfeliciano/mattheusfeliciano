@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/mattheusfeliciano/mattheusfeliciano/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/mattheusfeliciano" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center""> My name is <bold/>Matheus Feliciano</bold>,<br><br> I'm a <bold>Computer Science student</bold> at UniFavip Wyden 💻 I'm now in the second period
