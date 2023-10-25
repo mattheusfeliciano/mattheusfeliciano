@@ -5,15 +5,12 @@
 -👨‍💻 I am currently a teacher in the areas of graphic design and IT, also a passionate student of web development (where I want to continue learning new skills and become a web developer)</p>&nbsp;
 
 <div align="center">
-  <a href="https://github.com/sebastrogers">
-  <img height="158em" src="https://github-readme-stats.vercel.app/api?username=sebastrogers&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/mattheusfeliciano">
+  <img height="158em" src="https://github-readme-stats.vercel.app/api?username=mattheusfeliciano&show_icons=true&theme=drakula&include_all_commits=true&count_private=true"/>
   <img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastrogers&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=mattheusfeliciano&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-mattheusfeliciano.vercel.app/api/top-langs/?username=mattheusfeliciano&show_icons=true&theme=radical&layout=compact" />
- </div>
+
  
  &nbsp;
  &nbsp;
