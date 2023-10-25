@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/mattheusfeliciano/mattheusfeliciano/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center""> My name is <bold/>Matheus Feliciano</bold>, I'm a <bold>Computer Science student</bold> at UniFavip Wyden 💻 I'm now in the second period
+<p align="center""> My name is <bold/>Matheus Feliciano</bold>,<br><br> I'm a <bold>Computer Science student</bold> at UniFavip Wyden 💻 I'm now in the second period
 -👨‍💻 I am currently a teacher in the areas of graphic design and IT, also a passionate student of web development (where I want to continue learning new skills and become a web developer)</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
