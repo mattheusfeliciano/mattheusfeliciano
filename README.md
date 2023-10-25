@@ -1,7 +1,7 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/mattheusfeliciano" />
 
-
-<p align="left""> My name is <bold/>Matheus Feliciano</bold>,<br><br> I'm a <bold>Computer Science student</bold> at UniFavip Wyden 💻 I'm now in the second period
+<h1>align="left""> My name is <bold/>Matheus Feliciano</bold>, </h1> <br><br>
+ 
+ <p I'm a <bold>Computer Science student</bold> at UniFavip Wyden 💻 I'm now in the second period
 -👨‍💻 I am currently a teacher in the areas of graphic design and IT, also a passionate student of web development (where I want to continue learning new skills and become a web developer)</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
