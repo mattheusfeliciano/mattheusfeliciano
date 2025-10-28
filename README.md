@@ -1,9 +1,3 @@
-
-<h1> My name is <bold/>Matheus Feliciano🧡</bold> </h1> <br><br>
- 
- <p I'm a <bold>Computer Science student</bold> at UniFavip Wyden 💻 I'm now in the second period
--👨‍💻 I am currently a teacher in the areas of graphic design and IT, also a passionate student of web development (where I want to continue learning new skills and become a web developer)</p>&nbsp;
-
 <div align="center">
   <h1>Matheus Feliciano 🧡</h1>
   <p>💻 Computer Science Student | Ethical Hacking & Cybersecurity Enthusiast | Web Development Learner | Teacher in Graphic Design & IT</p>
@@ -86,5 +80,3 @@ Meu objetivo é desenvolver habilidades em **pentests, segurança ofensiva e def
 
 ## 📌 Main Competencies
 Cibersegurança • Python • Web Development • Ensino em TI e Design Gráfico
-
-  
