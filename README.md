@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Matheus Feliciano 🧡</h1>
+  <h1>Matheus Feliciano 🧡🖤</h1>
   <p>💻 Computer Science Student | Ethical Hacking & Cybersecurity Enthusiast | Web Development Learner | Teacher in Graphic Design & IT</p>
   
   <a href="https://github.com/mattheusfeliciano">
@@ -14,10 +14,10 @@
 ## 🚀 About Me
 
 Atualmente, estou me aprofundando nas áreas de **Ethical Hacking, Red Team** e **Análise de Vulnerabilidades**.  
-Meu objetivo é desenvolver habilidades em **pentests, segurança ofensiva e defesa cibernética**, ajudando empresas a proteger seus sistemas contra ameaças reais.
+Meu objetivo é desenvolver habilidades em **pentests, segurança ofensiva e defesa cibernética**, ajudando empresas a protegerem seus sistemas contra ameaças reais.
 
 💡 Adquirindo experiência prática por meio de laboratórios em **TryHackMe** e **Hack The Box**, estudando ferramentas como **Nmap, Metasploit, Wireshark** e **Burp Suite**, e aprimorando automação de testes com **Python**.  
-📚 Busco constantemente aplicar as melhores práticas de segurança em ambientes reais e estou aberto a oportunidades para aprender, crescer e contribuir para a segurança digital.
+📚 Busco constantemente aplicar as melhores práticas de segurança em ambientes reais e estou aberto a oportunidades para aprender, crescer e contribuir para a segurança digital!
 
 ---
 
@@ -28,9 +28,18 @@ Meu objetivo é desenvolver habilidades em **pentests, segurança ofensiva e def
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-#### Studying in this moment:
+#### Languages & Frameworks:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+
+#### Data & Analysis:
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-00A3E0?style=for-the-badge&logo=googleanalytics&logoColor=white)&nbsp;
+
+#### Studying / Improving:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 ---
 
@@ -43,6 +52,13 @@ Meu objetivo é desenvolver habilidades em **pentests, segurança ofensiva e def
 
 ---
 
+## 🌐 Redes & Engenharia de Software
+- Conhecimentos em redes e protocolos (TCP/IP, HTTP, DNS, DHCP, etc.)  
+- Noções de Engenharia de Software: requisitos, arquitetura, versionamento e testes  
+- Experiência com práticas de desenvolvimento colaborativo (Git/GitHub)
+
+---
+
 ## ⚙ Tools & Technologies
 <div>
   <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white" />
@@ -51,6 +67,7 @@ Meu objetivo é desenvolver habilidades em **pentests, segurança ofensiva e def
   <img src="https://img.shields.io/badge/Wireshark-1F5B99?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-F15D22?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
 ---
@@ -59,7 +76,16 @@ Meu objetivo é desenvolver habilidades em **pentests, segurança ofensiva e def
 <div>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+  <img src="https://img.shields.io/badge/Git-GitHub?style=for-the-badge&logo=git&logoColor=white" />
 </div>
+
+---
+
+## 📁 Projects & Learning
+- Laboratórios práticos em **TryHackMe** e **Hack The Box**  
+- Projetos de automação e scripts em **Python** (pentests, parsing e reporting)  
+- Pequenos projetos em **React Native** e aplicações web básicas  
+- Análises exploratórias de dados usando **pandas**
 
 ---
 
@@ -74,9 +100,12 @@ Meu objetivo é desenvolver habilidades em **pentests, segurança ofensiva e def
   <a href="https://www.linkedin.com/in/matheus-feliciano-06242b277/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://github.com/mattheusfeliciano" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </div>
 
 ---
 
 ## 📌 Main Competencies
-Cibersegurança • Python • Web Development • Ensino em TI e Design Gráfico
+Cibersegurança • Redes e Protocolos • Python • Java • C • React Native • Análise de Dados (pandas) • Engenharia de Software • Ensino em TI e Design Gráfico
